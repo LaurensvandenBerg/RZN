@@ -4,8 +4,10 @@ Repository zonder naam
 Waar staat wat?
 
 Front-end: https://github.com/antonsteenvoorden/rzn-angular 
+
 Back-end: https://fortytwowindmills.visualstudio.com/_git/TravelPlanner3 
 	- Onze code staat met name in App.RestAPI en App.RestAPI.Tests
+	
 Documenten: https://github.com/LaurensOomen/RZN 
 
 Onze server is: 145.97.16.183
